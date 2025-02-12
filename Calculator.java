@@ -1,5 +1,7 @@
 import java.util.*;
 public class Calculator {   
+
+    //WAP To create a Calculator
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

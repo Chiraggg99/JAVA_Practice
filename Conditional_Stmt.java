@@ -15,7 +15,7 @@ public class Conditional_Stmt {
             System.out.println("Not Adult");
         } 
 
-        //WAP To Print Largest of 2 numbers
+        // WAP To Print Largest of 2 numbers
 
          int a = 5 ;
          int b = 10 ;

@@ -24,7 +24,7 @@ public class Do_While {
 
         
         
-    // WAP to Keep Entering number till user enter a multiple of 10
+    //  WAP to Keep Entering number till user enter a multiple of 10
         Scanner sc = new Scanner(System.in);
 
         do {

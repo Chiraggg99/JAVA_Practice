@@ -2,7 +2,7 @@ import java.util.*;
 public class JavaBasics {
     public static void main (String args[] ) {
         System.out.println("Hello World ");
-        /*  Comment  */
+        /*  for Comment  */
 
        /*  int a = 10;
         int b = 20;

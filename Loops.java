@@ -12,7 +12,7 @@ public class Loops {
         System.out.println("Printed HW 10x");
 
 
-        // WAP To Print no 1 to 10 using WHILE LOOP 
+        // WAP To Print no 1 to 10 using WHILE LOOP :
         int no = 0 ;
         while ( no <= 10){
             System.out.print(no);

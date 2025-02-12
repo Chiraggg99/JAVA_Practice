@@ -21,8 +21,7 @@ public class Operators {
 
         //Assignment operator                  (= , += , -= , *= , /=)
         int F = 10;
-        // F = F + 10;
-        F+= 10 ;
+        F+= 10 ;   // F = F + 10;
         System.out.println(F);     
        }
 }
