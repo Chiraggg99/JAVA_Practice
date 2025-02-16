@@ -1,5 +1,5 @@
 import java.util.*;
-public class For_Loop {
+public class F_For_Loop {
     public static void main (String [] args) {
         // # For loop
         for(int i = 1 ; i<=10; i++) {
@@ -32,13 +32,13 @@ public class For_Loop {
 
     
        // Reverse the Giver no (Change the original no)
-       int n = 10899;
+       int m = 10899;
        int rev = 0;
        
-       while ( n > 0) {
-           int lastdigit = n % 10;
+       while ( m > 0) {
+           int lastdigit = m % 10;
            rev = ( rev*10 ) + lastdigit;
-           n=n/10;
+           m=m/10;
 
        }
        System.out.println(rev);
@@ -50,12 +50,12 @@ public class For_Loop {
 
         do {
             System.out.println("Enter your number: ");
-            int n = sc.nextInt();
+            int f = sc.nextInt();
 
-         if (n % 10 == 0 ) {
+         if (f % 10 == 0 ) {
             continue;
             }
-            System.out.println("Number was : " + n );
+            System.out.println("Number was : " + f );
         } while(true);
 
        

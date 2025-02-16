@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Prime {
+public class H_Prime {
     public static void main (String [] args) {
     
         // WAP To check if the number is prime or not  [  n = root(n) * root(n)  ]

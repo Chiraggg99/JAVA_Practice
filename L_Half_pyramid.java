@@ -1,4 +1,4 @@
-public class Half_pyramid {
+public class L_Half_pyramid {
     public static void main(String args[]){
         int n = 4;
         for(int i=1 ; i<=n ; i++){

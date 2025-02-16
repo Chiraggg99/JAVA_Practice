@@ -1,4 +1,4 @@
-public class Hollow_Rec_Pattern {
+public class N_Hollow_Rec_Pattern {
     public static void main(String[] args) {
         int rows = 5;
         int columns = 7;

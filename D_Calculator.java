@@ -1,5 +1,5 @@
 import java.util.*;
-public class Calculator {   
+public class D_Calculator {   
 
     //WAP To create a Calculator
     public static void main(String[] args) {

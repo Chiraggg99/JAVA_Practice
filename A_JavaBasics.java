@@ -1,5 +1,5 @@
 import java.util.*; 
-public class JavaBasics {
+public class A_JavaBasics {
     public static void main (String args[] ) {
         System.out.println("Hello World ");
         /*  for Comment  */

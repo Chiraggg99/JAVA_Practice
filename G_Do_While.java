@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Do_While {
+public class G_Do_While {
     public static void main (String [] args) {
 
     // DO WHILE LOOP    

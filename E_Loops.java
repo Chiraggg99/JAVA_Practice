@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Loops {
+public class E_Loops {
     public static void main(String[] args) {
 
         // # WHILE LOOP
@@ -33,22 +33,18 @@ public class Loops {
         
 
         // WAP To Print Sum of first n Naturat numbers :
-        Scanner sc = new Scanner(System.in);
+        Scanner cs = new Scanner(System.in);
 
         System.out.println("Enter the Value of N :");
-        int n = sc.nextInt();
+        int m = cs.nextInt();
         int sum = 0;
         int i = 1 ;
 
-        while (i <= n) {
+        while (i <= m) {
             sum += i;
             i++;
         }
-        System.out.println("Sum of Natural no.s is : "+ sum);
-
-
-        
-        
+        System.out.println("Sum of Natural no.s is : "+ sum);     
         
     }
 }

@@ -1,4 +1,4 @@
-public class Operators {
+public class B_Operators {
        public static void main (String args[]){
         // Arithmatic operator(Binary)        ( + , - , * , / , % )  
         int A = 10;
