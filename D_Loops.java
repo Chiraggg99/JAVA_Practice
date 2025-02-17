@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class E_Loops {
+public class D_Loops {
     public static void main(String[] args) {
 
         // # WHILE LOOP

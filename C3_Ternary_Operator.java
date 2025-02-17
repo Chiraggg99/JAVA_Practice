@@ -1,4 +1,4 @@
-public class C3_Conditional_Stmt {
+public class C3_Ternary_Operator {
     public static void main(String[] args) {
     // Ternary operator 
         // (Variable = Condition ? Stmt 1 : Stmt 2;)

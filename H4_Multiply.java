@@ -1,4 +1,4 @@
-public class R_Multiply {
+public class H4_Multiply {
     // MULTIPLY
     public static int multiply(int a , int b){
         int product = a * b ;

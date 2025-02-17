@@ -1,4 +1,4 @@
-public class O_Function {
+public class H1_Function {
     public static void printhelloworld(){
         System.out.println("Hello World");
         System.out.println("helloworld");

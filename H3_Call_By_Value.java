@@ -1,4 +1,4 @@
-public class Q_Call_By_Value {
+public class H3_Call_By_Value {
     
     public static void swap(int a , int b) {
         //SWAP

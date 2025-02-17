@@ -1,4 +1,4 @@
-public class J_Star_pattern {
+public class G1_Star_pattern {
     public static void main(String args[]) {
         //NESTED LOOPS (Loop inside loop)
             //Nested IF ELSE

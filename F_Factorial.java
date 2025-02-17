@@ -1,5 +1,5 @@
 import java.util.*;
-public class I_Factorial {
+public class F_Factorial {
     public static void main(String[] args){
     
         Scanner sc = new Scanner(System.in);

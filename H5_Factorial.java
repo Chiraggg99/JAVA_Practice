@@ -1,4 +1,4 @@
-public class S_Factorial {
+public class H5_Factorial {
 
     // FACTORIAL
 

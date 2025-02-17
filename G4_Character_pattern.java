@@ -1,4 +1,4 @@
-public class M_Character_pattern {
+public class G4_Character_pattern {
     public static void main(String[] args) {
         int n = 4;
         char ch = 'A';

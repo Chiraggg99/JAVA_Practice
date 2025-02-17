@@ -1,4 +1,4 @@
-public class K_Inverted_Star {
+public class G2_Inverted_Star {
     public static void main(String args[]){
         // WAP to print an inverted star pattern
         int n = 4;

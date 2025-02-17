@@ -1,5 +1,5 @@
 import java.util.*;
-public class C2_Conditional_Stmt {
+public class C2_Else_If {
     
     public static void main(String[] args) {
 

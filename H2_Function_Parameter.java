@@ -1,5 +1,5 @@
 import java.util.*;
-public class P_Function_Parameter {
+public class H2_Function_Parameter {
  
     public static int caclulatesum(int num1 ,int num2) {    // int a , int b is FUNCTION PARAMETERS
                                                             //Parameter or formal parameter(DEFINATION)

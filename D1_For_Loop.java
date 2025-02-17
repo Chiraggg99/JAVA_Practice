@@ -1,5 +1,5 @@
 import java.util.*;
-public class F_For_Loop {
+public class D1_For_Loop {
     public static void main (String [] args) {
         // # For loop
         for(int i = 1 ; i<=10; i++) {
