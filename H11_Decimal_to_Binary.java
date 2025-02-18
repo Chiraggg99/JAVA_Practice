@@ -13,7 +13,6 @@ public class H11_Decimal_to_Binary{
         }       System.out.println("Binarry form of " + myNum + " = " + binNum);
     }
      public static void main(String[] args) {
-        decToBin(7);
-    
+        decToBin(7);    
     }
 }
