@@ -13,8 +13,8 @@ public class E_Prime {
 
         } else {
             boolean isPrime = true;
-            for (int i=2 ; i<=n-1 ; i++) {  // i<= Math.sqrt(n) [For more optimized solution]
-                if ( n % i ==0) {  // n is a multiple of i (i not equal to n)
+            for (int i=2 ; i<=n-1 ; i++) {       // i<= Math.sqrt(n) [For more optimized solution]
+                if ( n % i ==0) {                // n is a multiple of i (i not equal to n)
                     isPrime = false;
 
                 }
