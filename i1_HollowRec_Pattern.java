@@ -15,6 +15,6 @@ public class i1_HollowRec_Pattern {
     }
     
     public static void main(String[] args) {
-        hollow_rec(4,5 );
+        hollow_rec(4,4 );
     }    
 }
